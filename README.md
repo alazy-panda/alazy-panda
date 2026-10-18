@@ -21,15 +21,6 @@ $ echo $FAVORITE_PLACE
 the terminal
 ```
 
-I'm a lazy panda, and lazy is exactly why I code: if I have to do something more than twice, I write a script for it. Most of my time goes into **Shell scripting**, **Linux**, and **virtualization/networking** experiments.
-
-## What I Build
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**tor_server**](https://github.com/alazy-panda/tor_server) | Tor server setup, scripted | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-| [**VM-Switcher**](https://github.com/alazy-panda/VM-Switcher) | Switching between virtual machines, made painless | ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-
 ## Tech & Tools
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -57,22 +48,3 @@ I'm a lazy panda, and lazy is exactly why I code: if I have to do something more
 ## Panda Philosophy
 
 > *"The best code is the code you didn't have to write twice."*
-
-```
-        ,-.     ,-.
-       (   `---'   )
-        \  ^   ^  /     < bamboo.sh --eat --sleep --repeat
-        ( (o) (o) )
-         \   ,   /
-          `-----'
-```
-
-## Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-alazy--panda-181717?style=for-the-badge&logo=github)](https://github.com/alazy-panda)
-
-<div align="center">
-
-If you like a repo, a star keeps this panda motivated (and slightly less lazy).
-
-</div>
